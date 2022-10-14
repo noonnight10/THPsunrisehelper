@@ -1,0 +1,2 @@
+on server list ping:
+	set motd to "&b2023 Happy New Year!"
